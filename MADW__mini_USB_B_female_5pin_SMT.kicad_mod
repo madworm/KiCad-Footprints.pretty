@@ -18,9 +18,9 @@
   (pad 7 smd rect (at 2.94862 -4.44876) (size 3.29946 1.99898) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at -2.94926 4.45394) (size 2.49936 1.99898) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd rect (at 2.94862 4.4514) (size 3.29946 1.99898) (layers F.Cu F.Paste F.Mask))
-  (pad 10 thru_hole circle (at -0.00032 -2.19832) (size 0.89916 0.89916) (drill 0.89916) (layers *.Cu *.Mask F.SilkS)
+  (pad 10 thru_hole circle (at -0.00032 -2.19832) (size 0.89916 0.89916) (drill 0.89916) (layers *.Cu *.Mask)
     (clearance 0.3))
-  (pad 11 thru_hole circle (at -0.00032 2.20096) (size 0.89916 0.89916) (drill 0.89916) (layers *.Cu *.Mask F.SilkS)
+  (pad 11 thru_hole circle (at -0.00032 2.20096) (size 0.89916 0.89916) (drill 0.89916) (layers *.Cu *.Mask)
     (clearance 0.3))
   (model ../../../../../Arduino/KiCAD/LIBS/3D/walter/conn_pc/usb_B_mini_smd.wrl
     (at (xyz -0.055 0 0))
